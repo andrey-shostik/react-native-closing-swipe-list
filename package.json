@@ -1,0 +1,49 @@
+{
+  "name": "rn-sliding-up-panel",
+  "version": "0.0.1",
+  "description": "Closing swipe list implemented in React Native",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrey-shostik/react-native-closing-swipe-list.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "ios",
+    "android",
+    "swipe",
+    "panel",
+    "swipe-list",
+    "swipe-close"
+  ],
+  "author": "Andrey Shostik <aaa73731919@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrey-shostik/react-native-closing-swipe-list/issues"
+  },
+  "homepage": "https://github.com/andrey-shostik/react-native-closing-swipe-list#readme",
+  "peerDependencies": {
+    "react": ">=16.x",
+    "react-native": ">=0.47"
+  },
+  "dependencies": {
+    "clamp": "^1.0.1",
+    "prop-types": "^15.7.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "babel-eslint": "^11.0.0-beta.0",
+    "eslint": "^5.15.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-react": "^7.12.4",
+    "eslint-plugin-react-native": "^3.6.0",
+    "metro-react-native-babel-preset": "^0.53.0",
+    "prettier": "^1.16.4"
+  }
+}
