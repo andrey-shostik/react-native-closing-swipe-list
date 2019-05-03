@@ -41,3 +41,6 @@ jspm_packages
 jsconfig.json
 
 .DS_Store
+
+# WebStorm
+.idea
