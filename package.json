@@ -1,5 +1,5 @@
 {
-  "name": "rn-sliding-up-panel",
+  "name": "react-native-closing-swipe-list",
   "version": "0.0.1",
   "description": "Closing swipe list implemented in React Native",
   "main": "src/index.js",

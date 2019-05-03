@@ -95,8 +95,6 @@ export default class App extends Component {
 
   onScroll = ({ nativeEvent }) => {
     if (this.state.isScrolledToTop !== !nativeEvent.contentOffset.y) {
-      console.log(nativeEvent.contentOffset.y, 'nativeEvent.contentOffset.y');
-      console.log(!nativeEvent.contentOffset.y, 'isScrolledToTop');
       this.setState({ isScrolledToTop: !nativeEvent.contentOffset.y });
     }
   };
